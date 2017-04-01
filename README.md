@@ -1,7 +1,7 @@
-vhall_sdk 说明文档
 
 自助式网络直播SDK（Android版）
 
+注：SDK地址已迁移，请往新地址下载 https://github.com/vhall/vhallsdk_live_android
 
 版本：v2.7.0 更新时间：2017.03.13
 
